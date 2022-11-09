@@ -1,0 +1,15 @@
+C:\Users\aser\Desktop\Soft club\C#\sixteenthLesson\InheritanceSchool\bin\Debug\net6.0\InheritanceSchool.exe
+C:\Users\aser\Desktop\Soft club\C#\sixteenthLesson\InheritanceSchool\bin\Debug\net6.0\InheritanceSchool.deps.json
+C:\Users\aser\Desktop\Soft club\C#\sixteenthLesson\InheritanceSchool\bin\Debug\net6.0\InheritanceSchool.runtimeconfig.json
+C:\Users\aser\Desktop\Soft club\C#\sixteenthLesson\InheritanceSchool\bin\Debug\net6.0\InheritanceSchool.dll
+C:\Users\aser\Desktop\Soft club\C#\sixteenthLesson\InheritanceSchool\bin\Debug\net6.0\InheritanceSchool.pdb
+C:\Users\aser\Desktop\Soft club\C#\sixteenthLesson\InheritanceSchool\obj\Debug\net6.0\InheritanceSchool.csproj.AssemblyReference.cache
+C:\Users\aser\Desktop\Soft club\C#\sixteenthLesson\InheritanceSchool\obj\Debug\net6.0\InheritanceSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aser\Desktop\Soft club\C#\sixteenthLesson\InheritanceSchool\obj\Debug\net6.0\InheritanceSchool.AssemblyInfoInputs.cache
+C:\Users\aser\Desktop\Soft club\C#\sixteenthLesson\InheritanceSchool\obj\Debug\net6.0\InheritanceSchool.AssemblyInfo.cs
+C:\Users\aser\Desktop\Soft club\C#\sixteenthLesson\InheritanceSchool\obj\Debug\net6.0\InheritanceSchool.csproj.CoreCompileInputs.cache
+C:\Users\aser\Desktop\Soft club\C#\sixteenthLesson\InheritanceSchool\obj\Debug\net6.0\InheritanceSchool.dll
+C:\Users\aser\Desktop\Soft club\C#\sixteenthLesson\InheritanceSchool\obj\Debug\net6.0\refint\InheritanceSchool.dll
+C:\Users\aser\Desktop\Soft club\C#\sixteenthLesson\InheritanceSchool\obj\Debug\net6.0\InheritanceSchool.pdb
+C:\Users\aser\Desktop\Soft club\C#\sixteenthLesson\InheritanceSchool\obj\Debug\net6.0\InheritanceSchool.genruntimeconfig.cache
+C:\Users\aser\Desktop\Soft club\C#\sixteenthLesson\InheritanceSchool\obj\Debug\net6.0\ref\InheritanceSchool.dll
